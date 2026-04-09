@@ -12,6 +12,7 @@
 Hello! I'm **Md Arif Nahid**, a passionate **Frontend Developer** currently living in **Saudi Arabia** 🇸🇦.  
 I love building modern and responsive websites using **HTML, CSS, JavaScript, and React**.  
 Right now, I'm learning and exploring the **MERN Stack** to become a full-stack web developer.
+![Uploading Professional web developer digital banner.png…]()
 
 ---
 
