@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Arif Nahid</h1>
-<h3 align="center">Frontend Developer | Learning MERN Stack</h3>
+
 <p align="center">
   <img src="banner.png" alt="Banner" width="100%" />
 </p>
