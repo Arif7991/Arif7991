@@ -27,7 +27,7 @@ Right now, I'm learning and exploring the **MERN Stack** to become a full-stack 
 ## 🛠️ Skills & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nodejs,express,mongodb,firebase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase,git,github,vscode" />
 </p>
 
 ---
