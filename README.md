@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | Learning MERN Stack</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=180&section=header&text=Md%20Arif%20Nahid&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  ![Banner](banner.png)
 </p>
 
 ---
